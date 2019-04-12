@@ -1,0 +1,10 @@
+io\restassured\examples\springmvc\controller\AutoSpringSecurityConfigurerITest$1.class
+io\restassured\examples\springmvc\controller\NonMultiPartFileUploadITest.class
+io\restassured\examples\springmvc\support\WithJetty$1.class
+io\restassured\examples\springmvc\controller\AutoSpringSecurityConfigurerITest.class
+io\restassured\examples\springmvc\support\WithJetty.class
+io\restassured\examples\springmvc\controller\FileUploadUsingStandardRestAssuredITest.class
+io\restassured\examples\springmvc\controller\MultiPartFileUploadITest.class
+io\restassured\examples\springmvc\controller\MockMvcSecurityITest.class
+io\restassured\examples\springmvc\controller\WebAppContextWithMockMvcConfigurerITest.class
+io\restassured\examples\springmvc\support\Greeting.class

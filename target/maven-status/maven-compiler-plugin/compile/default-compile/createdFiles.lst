@@ -1,0 +1,9 @@
+io\restassured\examples\springmvc\config\MainConfiguration.class
+io\restassured\examples\springmvc\controller\UserAwareController.class
+io\restassured\examples\springmvc\controller\FileDescription.class
+io\restassured\examples\springmvc\config\WebApp.class
+io\restassured\examples\springmvc\controller\FileWithParam.class
+io\restassured\examples\springmvc\controller\FileUploadController.class
+io\restassured\examples\springmvc\controller\SecuredController.class
+io\restassured\examples\springmvc\config\SecurityConfiguration.class
+io\restassured\examples\springmvc\controller\support\Greeting.class

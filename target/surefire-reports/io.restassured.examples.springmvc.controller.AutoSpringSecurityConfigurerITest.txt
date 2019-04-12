@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.restassured.examples.springmvc.controller.AutoSpringSecurityConfigurerITest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.239 s - in io.restassured.examples.springmvc.controller.AutoSpringSecurityConfigurerITest
